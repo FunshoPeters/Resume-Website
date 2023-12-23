@@ -6,4 +6,4 @@ View live demo here using github pages: [Live Demo](https://funshopeters.github.
 
 ## Dark Mode Preview
 
-<img src="assets\images\preview.PNG">
+<img src="assets\images\preview.png">
